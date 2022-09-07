@@ -1,9 +1,7 @@
-// vercel.json
-
 {
     "rewrites": [
         {
-            "src": "(.*)",
+            "src": "/(.*)",
             "dest": "/titanic_ml_api"
         }
     ]
