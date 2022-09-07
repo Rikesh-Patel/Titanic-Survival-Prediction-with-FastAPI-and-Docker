@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "src": "/(.*)",
-            "dest": "/titanic_ml_api"
+            "dest": "/index"
         }
     ]
 }
