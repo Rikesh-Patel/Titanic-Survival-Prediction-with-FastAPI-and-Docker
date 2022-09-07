@@ -2,7 +2,8 @@
 {
     "rewrites": [
         {
-            "dest": "index"
+            "src": "/(.*)",
+            "dest": "/api/index"
         }
     ]
 }
