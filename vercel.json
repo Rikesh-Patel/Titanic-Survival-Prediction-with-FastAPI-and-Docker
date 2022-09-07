@@ -2,7 +2,6 @@
 {
     "rewrites": [
         {
-            "src": "/(.*)",
             "dest": "index"
         }
     ]
